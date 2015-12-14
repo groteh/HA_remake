@@ -1,6 +1,7 @@
 /* Styles go here */
 body{
   background-color: #66A3FF;
+  margin: 0;
 }
 header{
   list-style-type: none;
