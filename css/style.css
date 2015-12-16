@@ -1,9 +1,9 @@
 /* Styles go here */
-body{
+body {
   background-color: #CCDFFE;
   margin: 0;
 }
-header{
+.header {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -24,12 +24,11 @@ header{
     padding: 8px 0 8px 16px;
     text-decoration: none;
 }
-.header li a.active {
+.nav li a.active {
     background-color: #4CAF50;
     color: white;
 }
-.header li a:hover:not(.active) {
-    background-color: #555;
+.nav li a:hover:not(.active) {
     color: white;
 }
 .header{
@@ -44,7 +43,7 @@ header{
 }
 
 .nav {
-	border-bottom: 2px;
+	border-bottom: 5px;
 	border-bottom-color: black;
 	background-color: #CCDFFE;	
 }
@@ -55,8 +54,10 @@ header{
 
 .nav a{
   color: black;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: bold;
-  padding: 14px 10px;
+  padding-left: 9px;
+  padding-right: 9px;
+  margin-bottom: 14px;
   text-transform: uppercase;
 }
