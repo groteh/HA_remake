@@ -1,6 +1,6 @@
 /* Styles go here */
 body{
-  background-color: #66A3FF;
+  background-color: #CCDFFE;
   margin: 0;
 }
 header{
@@ -46,7 +46,7 @@ header{
 .nav {
 	border-bottom: 2px;
 	border-bottom-color: black;
-	background-color: white;	
+	background-color: #CCDFFE;	
 }
 
 .nav li{
@@ -55,7 +55,7 @@ header{
 
 .nav a{
   color: black;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
