@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <title>World History Regular</title>
+  </head>
+
+  <body>
+    <h1>World History Regular</h1>
+    <br>
+    <div><p><i>World History is a required course for graduation from Beverly Hills High School.  It is a survey course that covers history from the ancient beginnings of democracy to the Enlightenment then through the present day.</i></p></div>
+    <div><h3><a href="http://afine0.tripod.com/historyadventure/wh/wh-rules15.pdf">Rules for World History:</a></h3><p>These rules and expectations apply to both semesters, so please follow them! This file is a .pdf file!</p></div>
+    <br>
+    <div><h3><a href="https://login.jupitered.com/login/">Checking Your Grade:</a></h3><p>When you go to www.jupitergrades.com, type in your BHHS 5-digit student ID and 6-digit password.  Your current grade will show up. <br>     IF there is an error, please print out your grade report, circle the contested assignment & attach the work in question.  I will correct the error ASAP.<br>Parents - please contact Mrs. Fine for your student's username & password so you can access this web site, or ask your student for the information.  Please contact Mrs. Fine if you have any questions about the reports.</p></div>
+    <br>
+    <div><h3>Online Aids</h3> We are using an older textbook, so go to <a href="https://www.classzone.com">Class Zone</a><p>for online aids aligned with your textbook. There are audio tours, self-tests, and additional section summaries that will be helpful for this class. A helpful <a href="http://afine0.tripod.com/historyadventure/wh/class_activation_instructions.ppt">tutorial PowerPoint</a> is available as well as an e-text. For the e-text (which may or may not work, dependent on the graciousness of the publisher):</p>
+    <br>
+    <ol>
+      <li>Go <a href="http://www.classzone.com/eservices">here</a></li>
+      <li>Enter this activation code: CLASS9309947 on the left, then enter submit</li>
+      <li>Create an account</li>
+      <li>Follow the prompts</li>
+      <li>Check out all the prompts</li>
+    </ol></div>
+    <div>
+      <p><a href="http://www.cde.ca.gov/ta/tg/sr/documents/cstrtqhssworld.pdf"><b>CST Prep Materials:</b></a> This site includes sample test questions and the state standards. This material will help you study for the STAR/CST test in April.</p>
+    </div>
+    <div>
+      <h3>Self Evaluation:</h3>
+      <p>After each test, I ask that students evaluation both their praparationa and performance on the the test honestly. This process should help students both evaluate and improve their study habits. Worth 10 points in the test category.</p>
+      <p>Please answer the following questions in complete sentences and honestly, then hand in to your teacher.</p>
+      <ol>
+        <li>What was the raw score on your test? Were you surprised by the raw score on this test? Why or why not?</li>
+        <li>What types of questions did you have difficulty with?</li>
+        <li>What strategies did you use to study for this test? Do you feel that these strategies worked?</li>
+        <li>What do you plan for improvement on the next test?</li>
+        <li>Did you take advantage of the strategies that Mrs. Fine offered?</li>
+        <li>Are there any other comments that you would like to add about your performance on this test, and/or progress in this course?</li>
+      </ol>
+    </div>
+    <div>
+      <h3>Course Topics and Chapters:</h3>
+      <h5>Semester One:</h5>
+      <ol>
+        <li><a href="________">Prologue</a></li>
+        <li><a href="________">Chapter 6: Enlightenment & American Revolution</a></li>
+        <li><a href="________">Chapter 7: French Revolution</a></li>
+        <li><a href="________">Chapter 8: Nationalist Revolutions</a></li>
+        <li><a href="________">Chapter 9: Industrial Revolution</a></li>
+        <li><a href="________">Chapter 11 & 12: Imperialism</a></li>
+        <li><a href="________">Fall Final</a></li>
+      </ol>
+      <h5>Semester Two:</h5>
+      <ol>
+        <li><a href="________">Chapter 13&14: World War One & The Russian Revolution</a></li>
+        <li><a href="________">Chapter 14.2&15: Interwar Years</a></li>
+        <li><a href="________">Chapter 16: Interwar Years</a></li>
+        <li><a href="________">Chapter 16: Cold War</a></li>
+        <li><a href="________">Chapter 20: Global Independance</a></li>
+        <li><a href="________">Semester Project</a></li>
+        <li><a href="________">Spring Final</a></li>
+      </ol>
+    </div>
+  </body>
+
+</html>
