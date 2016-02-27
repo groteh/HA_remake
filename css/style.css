@@ -1,6 +1,5 @@
-/* Styles go here */
 body {
-  background-color: #CCDFFE;
+  background-color: #CCDFFE !important;
   margin: 0;
 }
 .header {
@@ -45,7 +44,7 @@ body {
 .nav {
 	border-bottom: 5px;
 	border-bottom-color: black;
-	background-color: #CCDFFE;	
+	background-color: #CCDFFE;
 }
 
 .nav li{
