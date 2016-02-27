@@ -1,6 +1,7 @@
 body {
   background-color: #CCDFFE !important;
   margin: 0;
+  font-size: 100%; /* This sets default size of element to equal 1em. DO NOT CHANGE! DO NOT SET THE SIZE OF ELEMENTS IN PIXELS! */
 }
 .header {
   list-style-type: none;
@@ -20,7 +21,7 @@ body {
 .header li a {
     display: block;
     color: #000;
-    padding: 8px 0 8px 16px;
+    padding: 1em 0em 1em 2em;
     text-decoration: none;
 }
 .nav li a.active {
@@ -28,7 +29,7 @@ body {
     color: white;
 }
 .nav li a:hover:not(.active) {
-    color: white;
+    color: red;
 }
 .header{
   display: right;
@@ -42,9 +43,9 @@ body {
 }
 
 .nav {
-	border-bottom: 5px;
+	border-bottom: 0.1em solid black;
 	border-bottom-color: black;
-	background-color: #CCDFFE;
+	background-color: #0000ff;
 }
 
 .nav li{
@@ -52,11 +53,11 @@ body {
 }
 
 .nav a{
-  color: black;
-  font-size: 14px;
+  color: white;
+  font-size: 1em;
   font-weight: bold;
-  padding-left: 9px;
-  padding-right: 9px;
-  margin-bottom: 14px;
+  padding-left: 0.9em;
+  padding-right: 0.9em;
+  margin-bottom: 1.4em;
   text-transform: uppercase;
 }
